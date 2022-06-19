@@ -5,3 +5,4 @@ These are the times it took to get the answer for each problem (Compiled with
 2. 0ms
 3. 0ms
 4. 28ms
+5. 0ms

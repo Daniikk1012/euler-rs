@@ -5,12 +5,48 @@ version = 3
 [[package]]
 name = "euler"
 version = "0.1.0"
-dependencies = [
- "primter",
-]
 
 [[package]]
 name = "primter"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "84033d85ef9cc1a899bdfb73d9b04ee336901ea681052bbfcf3f2a07b270bbc4"
+
+[[package]]
+name = "problem-1"
+version = "0.1.0"
+
+[[package]]
+name = "problem-2"
+version = "0.1.0"
+
+[[package]]
+name = "problem-3"
+version = "0.1.0"
+
+[[package]]
+name = "problem-4"
+version = "0.1.0"
+
+[[package]]
+name = "problem-5"
+version = "0.1.0"
+
+[[package]]
+name = "problem-6"
+version = "0.1.0"
+
+[[package]]
+name = "problem-7"
+version = "0.1.0"
+dependencies = [
+ "primter",
+]
+
+[[package]]
+name = "problem-8"
+version = "0.1.0"
+
+[[package]]
+name = "problem-9"
+version = "0.1.0"

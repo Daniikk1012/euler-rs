@@ -12,3 +12,4 @@ These are the times it took to get the answer for each problem (Compiled with
 9. 0ms
 10. 18ms
 11. 0ms
+12. 209ms

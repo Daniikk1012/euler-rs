@@ -1,0 +1,28 @@
+use std::time::SystemTime;
+
+fn main() {
+    let time = SystemTime::now();
+
+    let mut number = vec![1];
+
+    for _ in 0..1_000 {
+        let mut remainder = 0;
+
+        for digit in &mut number {
+            *digit *= 2;
+            *digit += remainder;
+            remainder = *digit / 10;
+            *digit %= 10;
+        }
+
+        while remainder > 0 {
+            number.push(remainder % 10);
+            remainder /= 10;
+        }
+    }
+
+    let result: u32 = number.into_iter().sum();
+
+    println!("Result: {}", result);
+    println!("Time: {}ms", time.elapsed().unwrap().as_millis());
+}

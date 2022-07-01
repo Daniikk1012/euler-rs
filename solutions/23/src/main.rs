@@ -25,11 +25,10 @@ fn main() {
 
     let result: u32 = (1..=MAX)
         .filter(|number| {
-            abundants
+            !abundants
                 .iter()
                 .take_while(|left| *left * 2 <= *number)
-                .find(|left| abundants.binary_search(&(number - *left)).is_ok())
-                .is_none()
+                .any(|left| abundants.binary_search(&(number - *left)).is_ok())
         })
         .sum();
 

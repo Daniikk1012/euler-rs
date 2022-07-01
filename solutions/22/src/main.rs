@@ -8,7 +8,7 @@ fn main() {
     let result: u64 = {
         let mut vec: Vec<_> =
             content.split(',').map(|name| &name[1..name.len() - 1]).collect();
-        vec.sort();
+        vec.sort_unstable();
         vec
     }
     .into_iter()

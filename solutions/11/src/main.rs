@@ -3,6 +3,7 @@ use std::time::SystemTime;
 fn main() {
     let time = SystemTime::now();
 
+    #[allow(clippy::zero_prefixed_literal)]
     const GRID: [[u32; 20]; 20] = [
         [
             08, 02, 22, 97, 38, 15, 00, 40, 00, 75, 04, 05, 07, 78, 52, 12, 50,
@@ -90,8 +91,8 @@ fn main() {
 
     let mut result = 0;
 
-    for i in 0..GRID.len() {
-        for j in 0..GRID[i].len() {
+    for (i, row) in GRID.iter().enumerate() {
+        for j in 0..row.len() {
             if i < GRID.len() - LENGTH && j < GRID[i].len() - LENGTH {
                 result = result.max(
                     (i..i + LENGTH)

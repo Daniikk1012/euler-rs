@@ -3,6 +3,7 @@ use std::time::SystemTime;
 fn main() {
     let time = SystemTime::now();
 
+    #[allow(clippy::zero_prefixed_literal)]
     let mut triangle: [Vec<u32>; 15] = [
         vec![75],
         vec![95, 64],

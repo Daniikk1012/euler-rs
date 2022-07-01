@@ -3,7 +3,7 @@ use std::time::SystemTime;
 fn main() {
     let time = SystemTime::now();
 
-    const NUMBERS: [&'static [u8]; 100] = [
+    const NUMBERS: [&[u8]; 100] = [
         "37107287533902102798797998220837590246510135740250".as_bytes(),
         "46376937677490009712648124896970078050417018260538".as_bytes(),
         "74324986199524741059474233309513058123726617309629".as_bytes(),

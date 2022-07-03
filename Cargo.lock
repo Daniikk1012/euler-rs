@@ -95,6 +95,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "problem-27"
+version = "0.1.0"
+dependencies = [
+ "primter",
+]
+
+[[package]]
 name = "problem-3"
 version = "0.1.0"
 

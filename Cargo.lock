@@ -145,6 +145,13 @@ name = "problem-36"
 version = "0.1.0"
 
 [[package]]
+name = "problem-37"
+version = "0.1.0"
+dependencies = [
+ "primter",
+]
+
+[[package]]
 name = "problem-4"
 version = "0.1.0"
 

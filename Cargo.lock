@@ -231,6 +231,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "problem-52"
+version = "0.1.0"
+
+[[package]]
 name = "problem-6"
 version = "0.1.0"
 

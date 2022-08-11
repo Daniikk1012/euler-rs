@@ -68,3 +68,4 @@ and take the average. These values are not meant to be precise.
 63. 0ms
 64. 9ms
 65. 0ms
+66. 47ms

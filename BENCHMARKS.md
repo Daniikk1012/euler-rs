@@ -1,7 +1,7 @@
 These are the times it took to get the answer for each problem (Compiled with
 `--release` option) on my laptop. I do not use any benchmarking tools, but a
-simple timer. For more correct results I simply run the answer multiple times
-and take the average. These values are not meant to be precise.
+simple timer included in the source code of each solution, so the results are
+not precise, but capture the general relative performance of each solution.
 
 1. 0ms
 2. 0ms

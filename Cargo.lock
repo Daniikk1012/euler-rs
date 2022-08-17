@@ -471,6 +471,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "problem-72"
+version = "0.1.0"
+dependencies = [
+ "primal",
+]
+
+[[package]]
 name = "problem-8"
 version = "0.1.0"
 

@@ -478,6 +478,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "problem-73"
+version = "0.1.0"
+dependencies = [
+ "num-integer",
+]
+
+[[package]]
 name = "problem-8"
 version = "0.1.0"
 

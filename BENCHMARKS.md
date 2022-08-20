@@ -77,3 +77,4 @@ not precise, but capture the general relative performance of each solution.
 72. 380ms
 73. 655ms
 74. 150ms
+75. 105ms

@@ -519,6 +519,13 @@ name = "problem-8"
 version = "0.1.0"
 
 [[package]]
+name = "problem-80"
+version = "0.1.0"
+dependencies = [
+ "num",
+]
+
+[[package]]
 name = "problem-9"
 version = "0.1.0"
 

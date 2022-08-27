@@ -530,6 +530,10 @@ name = "problem-81"
 version = "0.1.0"
 
 [[package]]
+name = "problem-82"
+version = "0.1.0"
+
+[[package]]
 name = "problem-9"
 version = "0.1.0"
 

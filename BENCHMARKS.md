@@ -86,3 +86,4 @@ not precise, but capture the general relative performance of each solution.
 81. 3ms
 82. 38ms
 83. 40ms
+84. 820ms

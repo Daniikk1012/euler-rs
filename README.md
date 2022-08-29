@@ -25,6 +25,7 @@ code that I submitted here as a solution.
 * [`primal`]: for a prime number iterator, a fast way to generate and check
 primes, and number factorization. This is crate currently is used instead of the
 [`primter`] crate.
+* [`rand`]: for problems solved using statistics
 
 ## Benchmarks
 
@@ -36,4 +37,5 @@ I record the times it takes to find the answer for each of the solutions in the
 [`primter`]: https://github.com/Daniikk1012/primter-rs
 [`num`]: https://github.com/rust-num/num
 [`primal`]: https://github.com/huonw/primal
+[`rand`]: https://github.com/rust-random/rand
 [`BENCHMARKS.md`]: https://github.com/Daniikk1012/euler-rs/blob/master/BENCHMARKS.md

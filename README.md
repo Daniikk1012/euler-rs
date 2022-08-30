@@ -21,7 +21,8 @@ primes. This crate was developed by me due to lack of alternatives, and is no
 more used for solutions, because a better alternative exists. It will still be
 used in the solutions that used it before, because I don't want to modify the
 code that I submitted here as a solution.
-* [`num`]: for additional numeral types like `BigInt`, `Ratio`, and `Complex`.
+* [`num`]: for additional numeral types like `BigInt`, `Ratio`, and `Complex`
+and traits like `Integer`.
 * [`primal`]: for a prime number iterator, a fast way to generate and check
 primes, and number factorization. This is crate currently is used instead of the
 [`primter`] crate.

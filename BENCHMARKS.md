@@ -92,3 +92,4 @@ not precise, but capture the general relative performance of each solution.
 87. 194ms
 88. 4ms
 89. 0ms
+90. 6ms

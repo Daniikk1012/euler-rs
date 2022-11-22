@@ -101,3 +101,4 @@ not precise, but capture the general relative performance of each solution.
 96. 120ms
 97. 130ms
 98. 70ms
+99. 0ms

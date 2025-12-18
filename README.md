@@ -28,6 +28,12 @@ primes, and number factorization. This is crate currently is used instead of the
 [`primter`] crate.
 * [`rand`]: for problems solved using statistics
 
+## Other solutions
+
+See https://github.com/Daniikk1012/euler-bqn for BQN solutions. I usually do not
+solve same problem in multiple languages, so if something is not here, it's
+probably there.
+
 ## Benchmarks
 
 I record the times it takes to find the answer for each of the solutions in the

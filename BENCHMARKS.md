@@ -3,103 +3,103 @@ These are the times it took to get the answer for each problem (Compiled with
 simple timer included in the source code of each solution, so the results are
 not precise, but capture the general relative performance of each solution.
 
-1. 0ms
-2. 0ms
-3. 0ms
-4. 28ms
-5. 0ms
-6. 0ms
-7. 1ms
-8. 0ms
-9. 0ms
-10. 18ms
-11. 0ms
-12. 209ms
-13. 0ms
-14. 227ms
-15. 0ms
-16. 0ms
-17. 0ms
-18. 0ms
-19. 0ms
-20. 0ms
-21. 2ms
-22. 1ms
-23. 274ms
-24. 0ms
-25. 7ms
-26. 0ms
-27. 24ms
-28. 0ms
-29. 0ms
-30. 51ms
-31. 0ms
-32. 1ms
-33. 0ms
-34. 96ms
-35. 21ms
-36. 11ms
-37. 20ms
-38. 0ms
-39. 42ms
-40. 3ms
-41. 166ms
-42. 0ms
-43. 0ms
-44. 90ms
-45. 0ms
-46. 8ms
-47. 55ms
-48. 5ms
-49. 3ms
-50. 9ms
-51. 213ms
-52. 1ms
-53. 0ms
-54. 0ms
-55. 26ms
-56. 56ms
-57. 1ms
-58. 80ms
-59. 24ms
-60. 706ms
-61. 0ms
-62. 2ms
-63. 0ms
-64. 9ms
-65. 0ms
-66. 47ms
-67. 0ms
-68. 0ms
-69. 420ms
-70. 11200ms
-71. 120ms
-72. 380ms
-73. 655ms
-74. 150ms
-75. 105ms
-76. 2800ms
-77. 112ms
-78. 155ms
-79. 4400ms
-80. 21000ms
-81. 3ms
-82. 38ms
-83. 40ms
-84. 820ms
-85. 0ms
-86. 3300ms
-87. 194ms
-88. 4ms
-89. 0ms
-90. 6ms
-91. 12ms
-92. 170ms
-93. 44ms
-94. 46000ms
-95. 15000ms
-96. 120ms
-97. 130ms
-98. 70ms
-99. 0ms
-100. 0ms
+- 1: 0ms
+- 2: 0ms
+- 3: 0ms
+- 4: 28ms
+- 5: 0ms
+- 6: 0ms
+- 7: 1ms
+- 8: 0ms
+- 9: 0ms
+- 10: 18ms
+- 11: 0ms
+- 12: 209ms
+- 13: 0ms
+- 14: 227ms
+- 15: 0ms
+- 16: 0ms
+- 17: 0ms
+- 18: 0ms
+- 19: 0ms
+- 20: 0ms
+- 21: 2ms
+- 22: 1ms
+- 23: 274ms
+- 24: 0ms
+- 25: 7ms
+- 26: 0ms
+- 27: 24ms
+- 28: 0ms
+- 29: 0ms
+- 30: 51ms
+- 31: 0ms
+- 32: 1ms
+- 33: 0ms
+- 34: 96ms
+- 35: 21ms
+- 36: 11ms
+- 37: 20ms
+- 38: 0ms
+- 39: 42ms
+- 40: 3ms
+- 41: 166ms
+- 42: 0ms
+- 43: 0ms
+- 44: 90ms
+- 45: 0ms
+- 46: 8ms
+- 47: 55ms
+- 48: 5ms
+- 49: 3ms
+- 50: 9ms
+- 51: 213ms
+- 52: 1ms
+- 53: 0ms
+- 54: 0ms
+- 55: 26ms
+- 56: 56ms
+- 57: 1ms
+- 58: 80ms
+- 59: 24ms
+- 60: 706ms
+- 61: 0ms
+- 62: 2ms
+- 63: 0ms
+- 64: 9ms
+- 65: 0ms
+- 66: 47ms
+- 67: 0ms
+- 68: 0ms
+- 69: 420ms
+- 70: 11200ms
+- 71: 120ms
+- 72: 380ms
+- 73: 655ms
+- 74: 150ms
+- 75: 105ms
+- 76: 2800ms
+- 77: 112ms
+- 78: 155ms
+- 79: 4400ms
+- 80: 21000ms
+- 81: 3ms
+- 82: 38ms
+- 83: 40ms
+- 84: 820ms
+- 85: 0ms
+- 86: 3300ms
+- 87: 194ms
+- 88: 4ms
+- 89: 0ms
+- 90: 6ms
+- 91: 12ms
+- 92: 170ms
+- 93: 44ms
+- 94: 46000ms
+- 95: 15000ms
+- 96: 120ms
+- 97: 130ms
+- 98: 70ms
+- 99: 0ms
+- 100: 0ms
